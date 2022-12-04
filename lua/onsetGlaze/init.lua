@@ -5,7 +5,7 @@ local config = require("onsetGlaze.config")
 local M = {}
 
 function M._load()
-  util.load(theme.setup())
+    util.load(theme.setup())
 end
 
 M.setup = config.setup
