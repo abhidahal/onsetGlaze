@@ -5,7 +5,14 @@
 **onsetGlaze** is a ColorScheme for Nvim heavily inspired by syntax highlighting from [Monkai Pro](https://monokai.pro/) theme for VScode and transparent effect from [NeoSolarized](https://github.com/Tsuzat/NeoSolarized.nvim). Includes
 extra themes for Kitty, Alacritty and Konsole.
 
-![image](https://user-images.githubusercontent.com/87414003/205141099-5b00758e-8cc0-4e27-9dda-8dea84a0beeb.png)
+## 🖼️ Theme Dispaly
+
+![image](https://user-images.githubusercontent.com/87414003/205504926-9480303b-f3ae-4f17-85fd-238ee27518ae.png)
+-
+![image](https://user-images.githubusercontent.com/87414003/205505117-efa3b669-9a74-45f3-a796-d4c16916bbd1.png)
+-
+![image](https://user-images.githubusercontent.com/87414003/205505304-cee139df-444a-4d1e-9ade-88c9b0bd54c8.png)
+-
 
 ## 🪄 Features
 
